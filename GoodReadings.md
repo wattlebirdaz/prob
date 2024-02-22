@@ -1,3 +1,8 @@
+* https://faculty.washington.edu/yenchic/19A_stat535/Lec2_density.pdf
+    * STAT 535: Statistical Machine Learning Autumn 2019 Lecture 2: Density Estimation
+    * Note
+        * Density Estimation in Histogram
+
 * https://www.chrismusco.com/amlds2020/
     * NYU CS-GY 9223D (3943B) Algorithmic Machine Learning and Data Science
 
@@ -16,3 +21,8 @@
     * Note
         * Bias vs Variance Tradeoffs
         
+* https://www.stat.cmu.edu/~larry/=stat705/Lecture27.pdf
+    * https://www.stat.cmu.edu/~larry/=stat705/
+    * Note
+        * Distances between distributions
+
