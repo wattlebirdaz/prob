@@ -26,3 +26,5 @@
     * Note
         * Distances between distributions
 
+* https://web.stanford.edu/class/cs166/
+    * Good for understanding Count-Min Sketch and Count Sketch in detail
